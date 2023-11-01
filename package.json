@@ -1,0 +1,13 @@
+{
+    "name": "unity-movement-scripts",
+    "version": "0.0.1",
+    "displayName": "Movement Scripts",
+    "description": "Unity Movement Scripts",
+    "keywords": [
+      "Movement"
+    ],
+    "author": {
+      "name": "Miguel Cunha",
+      "email": "magccunha@gmail.com"
+    }
+}
